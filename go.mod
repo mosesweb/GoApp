@@ -1,3 +1,3 @@
 module main
-
-go 1.12
+// +heroku goVersion go1.17
+go 1.17
