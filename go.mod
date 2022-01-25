@@ -1,3 +1,3 @@
-module api.com
+module main
 
-go 1.12
+go 1.17
